@@ -3,3 +3,4 @@
 # Gitチュートリアル
 	- subbranch
 	- sub-B
+	-feature-C
